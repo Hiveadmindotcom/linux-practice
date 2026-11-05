@@ -1,3 +1,9 @@
 My First GitHub Project
 
 how to create new branch
+
+what is git branch -a 
+
+what is git branch -v 
+
+
